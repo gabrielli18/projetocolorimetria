@@ -1,0 +1,13 @@
+p{ color:rgb(159, 79, 196);
+text-align: center;
+font-weight: bold;
+font-size: 80px;
+font-family: 'Times New Roman', Times, serif;
+}
+body { background-color: rgb(221, 237, 179);
+}
+h1 { color:rgb(94, 25, 126);
+    text-decoration: aliceblue;
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
